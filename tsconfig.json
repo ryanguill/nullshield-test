@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "./",
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "module": "umd",
+    "target": "es5",
+    "jsx": "react",
+    "declaration": true
+  },
+  "include": [
+    "./src/"
+  ],
+  "exclude": [
+    "./test/"
+  ]
+}
